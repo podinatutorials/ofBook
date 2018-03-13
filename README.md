@@ -5,7 +5,7 @@ this is a collaboratively written openFrameworks book.
 
 Read the latest version [here](http://openframeworks.cc/ofBook/chapters/foreword.html)!
 
-for other language, please read below.
+for other <a href="http://www.podinatutorials.com/category/latest-technology-news/" rel="nofollow"> language </a>, please read below.
 - Korean(한국어) : [README.ko.md](README.ko.md)
 
 **please note that this is still work-in-progress**
